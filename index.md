@@ -1,12 +1,12 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Eawag"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Eawag Room : FC-C24"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Eawag and EMPA"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Eawag Room : FC-C24 EMPA Room : TBD"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ch"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "eng"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "47.405006"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "8.610376"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Feb 26, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Feb 26, 2020 and March 20, 020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30 am - 5:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-02-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-02-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -183,21 +183,6 @@ Display the contact email address set in the configuration file.
 
 <hr/>
 
-{% comment%}
-CODE OF CONDUCT
-{% endcomment %}
-<h2 id="code-of-conduct">Code of Conduct</h2>
-
-<p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.This document also outlines how to report an incident if needed.
-</p>
-
-<p class="text-center">
-<button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
-</p>
-<hr/>
-
-
 {% comment %}
 Collaborative Notes
 
@@ -223,7 +208,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Registration</h2>
 <p>Please be sure to register before the workshop.</p>
-<p><a href="https://petit.link/reg_20200226_eewag">Registration Form</a></p>
+<p><a href="https://petit.link/register_bashgit">Registration Form</a></p>
 
 
 <hr/>
