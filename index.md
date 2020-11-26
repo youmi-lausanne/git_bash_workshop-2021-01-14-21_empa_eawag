@@ -1,15 +1,15 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Eawag and EMPA"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Room : FC-C24(Eawag) and  Akademie 2(EMPA)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Online (Zoom)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ch"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "eng"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude:     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude:     # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Feb 26, 2020 and March 20, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:30 am - 5:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-02-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-03-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "January 14, 2021 and January 21, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "1:00 pm - 4:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2021-01-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-01-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Antoine Masson"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["rdm@eawag.ch","anusch.bachofner@empa.ch","antoine@youmi-lausanne.ch"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
